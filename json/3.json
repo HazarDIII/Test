@@ -1,0 +1,43 @@
+{
+  "name": "Meta Admin #3",
+  "description": "The first Collection of degens, enthusiasts and experts on The Open Network blockchain",
+  "image": "https://cloudflare-ipfs.com/ipfs/QmRjmAe2mQFXuWnVgxvdM1B9DHebuzfoHL71b43uAmfqjZ/3.png",
+  "dna": "4e280627bf32f0ed5f9b045cdb6c25f0d4b0ee73",
+  "edition": 3,
+  "date": 1665087521586,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background_Meta"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_White"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Help PC Tshirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aiz_Grey"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Glassless"
+    },
+    {
+      "trait_type": "Smile",
+      "value": "Defolt Smile"
+    },
+    {
+      "trait_type": "Scarf",
+      "value": "Medallion"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Klava kudri"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Meta Admin #4",
+  "description": "The first Collection of degens, enthusiasts and experts on The Open Network blockchain",
+  "image": "https://cloudflare-ipfs.com/ipfs/QmRjmAe2mQFXuWnVgxvdM1B9DHebuzfoHL71b43uAmfqjZ/4.png",
+  "dna": "aac826d7cf00e9e74e47497be594b3dececbf17e",
+  "edition": 4,
+  "date": 1665087524181,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background_Meta"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_White"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TShirt stripes_Admin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aiz_Grey"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Ochi dm"
+    },
+    {
+      "trait_type": "Smile",
+      "value": "Defolt Smile"
+    },
+    {
+      "trait_type": "Scarf",
+      "value": "Unencumbered"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Hairstyle Admin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
