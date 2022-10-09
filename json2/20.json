@@ -1,0 +1,43 @@
+{
+  "name": "Meta Admin #20",
+  "description": "The first Collection of degens, enthusiasts and experts on The Open Network blockchain",
+  "image": "https://raw.githubusercontent.com/HazarDIII/Test/main/images/20.png",
+  "dna": "9e33e2002e46114e2c2f3c2ed1e9a3741d209718",
+  "edition": 20,
+  "date": 1665276912144,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background_Meta"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_White"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Meta Hero Tshirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aiz_Grey"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Glasses Round_Admin"
+    },
+    {
+      "trait_type": "Smile",
+      "value": "Defolt Smile"
+    },
+    {
+      "trait_type": "Scarf",
+      "value": "Unencumbered"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Admin naushniki Kurdish"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
