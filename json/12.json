@@ -1,0 +1,43 @@
+{
+  "name": "Meta Admin #12",
+  "description": "The first Collection of degens, enthusiasts and experts on The Open Network blockchain",
+  "image": "https://raw.githubusercontent.com/HazarDIII/Test/main/images/12.png",
+  "dna": "a9a1159ed66f16277287d67caf978ea950f36cd6",
+  "edition": 12,
+  "date": 1665276890843,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background_Meta"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_White"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tshirt No Girls_Admin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aiz_Grey"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Ochi dm"
+    },
+    {
+      "trait_type": "Smile",
+      "value": "Defolt Smile"
+    },
+    {
+      "trait_type": "Scarf",
+      "value": "B"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Admin_curly greasy hair"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
